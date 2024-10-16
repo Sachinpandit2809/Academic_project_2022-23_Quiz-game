@@ -1,3 +1,5 @@
+// streak
+
 #include<iostream>
 #include<conio.h>
 int x=0;
